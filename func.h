@@ -1,0 +1,2 @@
+void initpaint();
+void paintmenu();
