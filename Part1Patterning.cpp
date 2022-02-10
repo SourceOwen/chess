@@ -5,7 +5,7 @@ void initpaint() {
 	initgraph(640,427, SHOWCONSOLE);
 	setbkcolor(WHITE);
 	cleardevice();
-	paintmenu();
+	
 }
 
 void paintmenu() {
