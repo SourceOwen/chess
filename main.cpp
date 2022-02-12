@@ -5,7 +5,7 @@
 int main() {
 
 	initpaint();
-
+gchess();
 	while(1) {
 //	paintmenu();
 		Sleep(0.35);
